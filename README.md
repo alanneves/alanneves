@@ -1,0 +1,49 @@
+<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=alanneves.alanneves" alt="alanneves" /> </p>
+<p align="center">
+<br/>
+<a href="https://twitter.com/alanevess">
+  <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+</a>
+<a href="https://www.linkedin.com/in/alan-neves">
+  <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+</a>
+<a href="https://www.facebook.com/alanevess">
+  <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+</a>
+<a href="https://www.instagram.com/alaneves1">
+  <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+</a>
+<a href="https://open.spotify.com/user/anx9felz8ko95abnd05ozecii">
+  <img alt="guilyx's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+</a>
+</p>
+
+Hi guys, I'm Alan Neves. I am a Software Engineer from Brazil. I'm currently working on [Adapcon](https://github.com/adapcon-team/).
+
+<a name="learning-now"></a>
+
+## 🛠  Technologies
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Serverless-282C34?logo=serverless" alt="Serverless logo" title="Serverless" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][learning_now_anchor]
+&nbsp;
+
+</br>
+
+## 📊 This week I spent my time on
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=alanneves&hide_title=true&hide_border=true&langs_count=5)
+
+[learning_now_anchor]: #learning-now
