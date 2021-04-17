@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=alanneves.alanneves" alt="alanneves" /> </p>
 <p align="center">
 <br/>
-<a href="https://twitter.com/alanevess">
+<a href="https://twitter.com/alanrneves">
   <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
 <a href="https://www.linkedin.com/in/alan-neves">
@@ -10,7 +10,7 @@
 <a href="https://www.facebook.com/alanevess">
   <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
-<a href="https://www.instagram.com/alaneves1">
+<a href="https://www.instagram.com/alanrneves">
   <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
 <a href="https://open.spotify.com/user/anx9felz8ko95abnd05ozecii">
