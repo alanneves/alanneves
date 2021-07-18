@@ -31,13 +31,7 @@ Hi guys, I'm Alan Neves. I am a Software Engineer from Brazil. I'm currently wor
 &nbsp;
 [<img src="https://img.shields.io/badge/Serverless-282C34?logo=serverless" alt="Serverless logo" title="Serverless" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][learning_now_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][learning_now_anchor]
 &nbsp;
 
 </br>
