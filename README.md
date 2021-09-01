@@ -33,7 +33,3 @@ Hi guys, I'm Alan Neves. I am a Software Engineer from Brazil. I'm currently wor
 &nbsp;
 [<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_now_anchor]
 &nbsp;
-
-</br>
-
-[learning_now_anchor]: #learning-now
