@@ -36,8 +36,4 @@ Hi guys, I'm Alan Neves. I am a Software Engineer from Brazil. I'm currently wor
 
 </br>
 
-## 📊 This week I spent my time on
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=alanneves&hide_title=true&hide_border=true&langs_count=5)
-
 [learning_now_anchor]: #learning-now
