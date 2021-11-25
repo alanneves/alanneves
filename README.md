@@ -1,21 +1,11 @@
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=alanneves.alanneves" alt="alanneves" /> </p>
 <p align="center">
 <br/>
-<a href="https://twitter.com/alanrneves">
-  <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
-</a>
-<a href="https://www.linkedin.com/in/alan-neves">
-  <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
-</a>
-<a href="https://www.facebook.com/alanevess">
-  <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
-</a>
-<a href="https://www.instagram.com/alanrneves">
-  <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
-<a href="https://open.spotify.com/user/anx9felz8ko95abnd05ozecii">
-  <img alt="guilyx's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
-</a>
+  
+[![Twitter Badge](https://img.shields.io/badge/-@alanrneves-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alanrneves)](https://twitter.com/alanrneves)
+[![Linkedin Badge](https://img.shields.io/badge/-Alan%20Reno%20Neves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-neves/)](https://www.linkedin.com/in/kunalraghav/)
+[![Gmail Badge](https://img.shields.io/badge/-alanrenoneves@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanrenoneves@gmail.com)](mailto:alanrenoneves@gmail.com)
+
 </p>
 
 Hi guys, I'm Alan Neves. I am a Software Engineer from Brazil. I'm currently working on [Adapcon](https://github.com/adapcon-team/).
