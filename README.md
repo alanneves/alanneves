@@ -7,7 +7,7 @@
 
 </p>
 
-Hi guys, I'm Alan Neves. I am a Software Engineer from Brazil. I'm currently working on [Adapcon](https://github.com/adapcon-team/).
+Hi guys, I'm Alan Neves. I am a Software Engineer from Brazil. I'm currently working on [Adapcon](https://github.com/Adapcon).
 
 <a name="learning-now"></a>
 
