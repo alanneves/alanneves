@@ -12,6 +12,8 @@ Hi guys, I'm Alan Neves. I am a Software Engineer from Brazil. I'm currently wor
 <a name="learning-now"></a>
 
 ## 🛠  Technologies
+[<img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=3178c6" alt="Typescript logo" title="Typescript" height="25" />][learning_now_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" />][learning_now_anchor]
