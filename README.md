@@ -1,7 +1,6 @@
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=alanneves.alanneves" alt="alanneves" /> </p>
 <p align="center">
 
-[![Twitter Badge](https://img.shields.io/badge/-@alanrneves-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alanrneves)](https://twitter.com/alanrneves)
 [![Linkedin Badge](https://img.shields.io/badge/-Alan%20Reno%20Neves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-neves/)](https://www.linkedin.com/in/alan-neves/)
 [![Gmail Badge](https://img.shields.io/badge/-alanrenoneves@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanrenoneves@gmail.com)](mailto:alanrenoneves@gmail.com)
 
