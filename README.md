@@ -4,9 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-alanrenoneves@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanrenoneves@gmail.com)](mailto:alanrenoneves@gmail.com)
 
 </p>
-
-Hi guys, I'm Alan Neves. I am a Software Engineer from Brazil. I'm currently working at [CI&T](https://github.com/ciandt).
-
 <a name="learning-now"></a>
 
 ## 🛠  Technologies
