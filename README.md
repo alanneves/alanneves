@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=alanneves.alanneves" alt="alanneves" /> </p>
 <p align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alan%20Reno%20Neves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-neves/)](https://www.linkedin.com/in/alan-neves/)
